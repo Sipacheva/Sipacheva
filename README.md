@@ -2,9 +2,7 @@
 
 ## Projects:
 
-https://github.com/Sipacheva/mobimed-tests
-
-https://github.com/Sipacheva/demoqa-tests
+https://github.com/Sipacheva/mobimed-tests - autotests for mobimed website
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sipacheva&show_icons=true&theme=cobalt&bg_color=DEG,2b213a,193550,193551...193555)
