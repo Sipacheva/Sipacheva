@@ -7,7 +7,7 @@ https://github.com/Sipacheva/mobimed-tests
 https://github.com/Sipacheva/demoqa-tests
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sipacheva)](https://github.com/Sipacheva/github-readme-stats&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sipacheva&show_icons=true&theme=cobalt&bg_color=DEG,2b213a,193550,193551...193555)
 
 
 
