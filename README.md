@@ -1,5 +1,7 @@
 👋 Hi, I’m Sipacheva Olga
 
+Хобби: Провожу рисовательные офлайн-встречи, которые делают уставших людей чуть менее уставшими :sparkles:
+
 ## Projects:
 
 https://github.com/Sipacheva/mobimed-tests - autotests for mobimed website
